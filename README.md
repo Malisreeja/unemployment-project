@@ -74,7 +74,7 @@ This project not only provided valuable insights into the economic impact of the
 
 ## Author
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+-https://github.com/Malisreeja/unemployment-projec
 
 ---
 
